@@ -3,3 +3,6 @@ here is the further process
 AND
 
 This is feature1 branch avatar.
+
+change 23 in same line.
+change 34 in same line.
