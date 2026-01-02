@@ -5,3 +5,8 @@ manage the database.
 
 closing the connection
 clear();
+
+change 1
+change 2
+change 3
+
