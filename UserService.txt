@@ -7,3 +7,11 @@ This is feature1 branch avatar.
 change 23 in same line.
 change 34 in same line.
 
+<<<<<<< Updated upstream
+=======
+Ai feature.... loading....
+kellogs
+Kinderjoy
+Wet N Joy'
+end jet ta nime
+>>>>>>> Stashed changes
