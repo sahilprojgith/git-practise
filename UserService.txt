@@ -7,3 +7,5 @@ This is feature1 branch avatar.
 login and logout 
 
 another change 123
+change 2 in database 
+change 3 in database 2.
